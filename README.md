@@ -1,2 +1,0 @@
-# CapstoneProject
-Bidding Management System
